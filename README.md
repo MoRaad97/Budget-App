@@ -10,8 +10,8 @@
 > - see the money spent on each category.
 
 ## Design 
-- #### Design By: [Gregoire Vella on Behance.](https://www.behance.net/gregoirevella)
-- #### Design [Link.](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=)
+- #### Original design idea by: [Gregoire Vella on Behance.](https://www.behance.net/gregoirevella)
+- #### Design [link.](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=)
 ## Built With
 
 - Languages Used: HTML, CSS, RUBY.
